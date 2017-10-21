@@ -1,59 +1,24 @@
-class: center, middle
+﻿class: center, middle
 
-# 讲义题目
+# 韦宗乐
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### superxg2010@hotmail.com 
 
-主页: https://github.com/author
+### 化学与分子工程学院 
+
 
 ---
 
-## 本讲内容
+## 我爱成环
 
-### <font color="orangered">1. 第一部分</font>
+** 在裴院长的带领下成一个大环 **
 
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
+<img src="https://pic4.zhimg.com/50/744b93b647635c5e1a4efa989760e55f_hd.jpg">
 
-### 2. 第二部分
-
-### 3. 第三部分
-
----
-
-## 第一部分
-
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
-
----
-
-## 插图
-
-** Ada Lovelace **
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
-
----
-
-## `\(\LaTeX{}\)` in remark
-
-
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
-
-Display formula:
-
-$$e^{i\pi} + 1 = 0$$
+** /joke/
 
 ---
 
